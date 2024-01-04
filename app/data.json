@@ -1,0 +1,459 @@
+[
+  {
+    "marca_temporal": "2/3/2022 12:42:20",
+    "id": "1",
+    "categoria": "Trabajo Fin de Grado",
+    "nombre_docente": "Marina Fernandez Ramos",
+    "nombre_estudiante": "Laura Covisa Pereira",
+    "titulo": "KEKEN",
+    "subtitulo": "Luminaria para los momentos mas especiales",
+    "descripcion": "KEKEN es una lampara solar portable. Su forma nos recuerda a la flor de la planta Physalis Alkekengi, conocida comúnmente como linterna china. Proporciona una luz suave, generando ambientes calidos y agradables en el exterior. Consta de una placa solar fotovoltaica ubicada en la parte posterior de la base que se carga dando la vuelta a la luminaria, quedando asi sostenida por sus petalos. Especialmente diseñada para momentos de reunion y de celebracion, asi como para momentos de tranquilidad y desconexion. Esta lampara nos acerca ademas a la cultura asiatica, donde los farolillos chinos estan presentes en las celebraciones mas especiales. ",
+    "palabras_clave": "Lampara, solar, portable",
+    "linea_investigacion": "Diseño sostenible y ecodiseño",
+    "especialidad": "Producto",
+    "especialidad_completo": "Diseño de producto",
+    "asignatura": "Proyectos. Ideacion",
+    "curso": "2º",
+    "imagenes": {
+      "img1": {
+        "url": "https://drive.google.com/uc?export=view&id=10z513EC5AIxiNa10z55HufDmIGiwE7IT",
+        "desc": "Luminaria encendida (render)."
+      },
+      "img2": {
+        "url": "https://drive.google.com/uc?export=view&id=1Nptiqj24rrTkfW-H7k_QVZWQjJj6AUTu",
+        "desc": "Localizacion de la placa solar en la luminaria (render)."
+      },
+      "img3": {
+        "url": "https://drive.google.com/uc?export=view&id=11DrdKGZaEzSPT5kpiopy-76yxBPuF16E",
+        "desc": "Luminaria en uso un entorno natural (fotomontaje)."
+      },
+      "img4": {
+        "url": "https://drive.google.com/uc?export=view&id=1_iu9ySiRhTONSspd_BS8KZT_dSyCUjhY",
+        "desc": "Portabilidad mediante asa de agarre (fotomontaje)."
+      },
+      "img5": {
+        "url": "https://drive.google.com/uc?export=view&id=15opCwuWcwHA4ogTSCggWijKE53I_1vAo",
+        "desc": "Prototipo fisico a escala real."
+      }
+    }
+  },
+  {
+    "marca_temporal": "2/4/2022 9:43:00",
+    "id": "2",
+    "categoria": "Trabajo Fin de Master",
+    "nombre_docente": "Marina Fernandez Ramos",
+    "nombre_estudiante": "Christian Valencia Gonzalez",
+    "titulo": "E-Lamp",
+    "subtitulo": "Ecosistema Inteligente",
+    "descripcion": "E-LAMP es un sistema de objetos interactivos que nos ayuda a tomar consciencia sobre el consumo electrico en el hogar y a reducirlo a traves de diferentes interfaces. Se compone de una lampara de mesa, una luminaria suspendida, un aplique para el baño y la cocina, una carcasa-sensor, y una pulsera de muñeca con una aplicacion de visualizacion de los datos registrados y control de dispositivos. Los objetos comunican informacion sobre el consumo a traves de codigos de luz y color. La pulsera, ademas, mide el pulso de la persona usuaria y detecta si se ausenta de la vivienda, pudiendo asi apagar dispositivos que se hayan podido quedar encendidos por despiste u olvido. El espacio de la vivienda, estos objetos, el consumo electrico y el cuerpo quedan conectados a traves de este sistema.",
+    "palabras_clave": "Ecodiseño, Producto, Energia",
+    "linea_investigacion": "Diseño sostenible y ecodiseño",
+    "especialidad": "Producto",
+    "especialidad_completo": "Diseño de producto",
+    "asignatura": "Objeto Interfaz",
+    "curso": "4º",
+    "imagenes": {
+      "img1": {
+        "url": "https://drive.google.com/uc?export=view&id=1HnRVzAhNQy0DEDKPHz60yO0LzmjPce2Y",
+        "desc": ""
+      },
+      "img2": {
+        "url": "https://drive.google.com/uc?export=view&id=1keyDQ2hHJF9mryzEKZGXNpb1VN-j2-WF",
+        "desc": ""
+      },
+      "img3": {
+        "url": "https://drive.google.com/uc?export=view&id=1riWjixF4zkQ8QmUOFjCvXN3C8hmUskei",
+        "desc": ""
+      },
+      "img4": {
+        "url": "https://drive.google.com/uc?export=view&id=1MxpoOTQKnXad87vjBs1EJtjeaQC2OndQ",
+        "desc": ""
+      },
+      "img5": {
+        "url": "https://drive.google.com/uc?export=view&id=1gCUQ__UBGdD_vukf6gVbKO0bkewKRpSF",
+        "desc": ""
+      }
+    }
+  },
+  {
+    "marca_temporal": "7/8/2022 14:08:24",
+    "id": "3",
+    "categoria": "Trabajo Fin de Grado",
+    "nombre_docente": "Pilar Acon Segura",
+    "nombre_estudiante": "Javier Casanova Gonzalez",
+    "titulo": "Sensitive Shoes",
+    "subtitulo": "Caja de zapatos",
+    "descripcion": "El concepto del proyecto parte de la sensacion de proteccion y delicadeza. Con ello se buscan transmitir ideas que hablan sobre la importancia del autocuidado personal y la responsabilidad que tenemos con nuestro entorno. En la paleta de colores utilizada predominan los tonos apastelados para trasmitir fragilidad y la necesidad de proteccion. La forma del packaging se basa en la manera de enrollar una venda alrededor de una herida para comunicar el concepto del autocuidado. Permite llevarse sola sin necesidad de una bolsa de plastico o papel, lo que minimiza el uso de materiales adicionales, ademas es mas pequeña que una caja estandar lo que proporciona un ahorro de espacio para el fabricante, vendedor, y usuario durante las etapas de distribucion y almacenamiento.",
+    "palabras_clave": "Carton, proteccion, ahorro",
+    "linea_investigacion": "Diseño sostenible y ecodiseño",
+    "especialidad": "Producto",
+    "especialidad_completo": "Diseño de producto",
+    "asignatura": "",
+    "curso": "",
+    "imagenes": {
+      "img1": {
+        "url": "https://drive.google.com/uc?export=view&id=1lA98_PTTthU8JeIAfOlHEw9rE_a2maqE",
+        "desc": "El envase no emplea adhesivos para su montaje."
+      },
+      "img2": {
+        "url": "https://drive.google.com/uc?export=view&id=1AvmQM6cq-knFlTVSZVKS6hXu8LneVZnk",
+        "desc": "El envase puede plegarse y desplegarse tantas veces se necesite."
+      },
+      "img3": {
+        "url": "https://drive.google.com/uc?export=view&id=1o3fPB92pUC7Dj2LLTPCPHa-pnLfV-rS9",
+        "desc": "Emplea el minimo material para proteger partes sensibles del zapa."
+      },
+      "img4": {
+        "url": "https://drive.google.com/uc?export=view&id=167foGbRAID4wYplSDrrmhxB1k5Bd2Bx6",
+        "desc": "L marca s inspira n el art digital Udergraund y diseñ web dl 2000."
+      },
+      "img5": {
+        "url": "https://drive.google.com/uc?export=view&id=1U0YiaMQpO-RVAHyQT8sRsCTrCiPfCC8w",
+        "desc": "Los zapatos quedan sujetos por las pestañas interiores."
+      }
+    }
+  },
+  {
+    "marca_temporal": "7/6/2022 18:30:26",
+    "id": "4",
+    "categoria": "Trabajo Fin de Grado",
+    "categoria": "Trabajo Fin de Grado",
+    "nombre_docente": "Miguel Ochando Perez",
+    "nombre_estudiante": "Victor Duque Garcia",
+    "titulo": "What we see when we read",
+    "subtitulo": "Rediseño del libro de Peter Mendelsund",
+    "descripcion": "El objetivo de este trabajo es rediseñar el libro 'What we see when we read' de Peter Mendelsund como parte de una coleccion sobre ensayos y temas de diseño y creatividad para una editorial. Por tanto, el diseño del libro se generara por medio de un sistema en el que cada libro tiene un color principal. El resultado es una version del libro mucho mas cohesiva, visual, dinamica y experimental en lo tipografico, dirigida a un público familiarizado con el diseño.",
+    "palabras_clave": "Editorial, sistema, coleccion",
+    "linea_investigacion": "Diseño e innovacion",
+    "especialidad": "Grafico",
+    "especialidad_completo": "Diseño gráfico",
+    "asignatura": "Diseño editorial",
+    "curso": "3º",
+    "imagenes": {
+      "img1": {
+        "url": "https://drive.google.com/uc?export=view&id=1zvdeIwXPsSgdQiEvrlxIdQjwjOPfWeIa",
+        "desc": "Cubierta, contracubierta y lomo."
+      },
+      "img2": {
+        "url": "https://drive.google.com/uc?export=view&id=1nTJ-7D1_zBNnCinUs7B0Nsc4rHx1juv0",
+        "desc": "Desplegable interior y faja vertical."
+      },
+      "img3": {
+        "url": "https://drive.google.com/uc?export=view&id=1e8n66B5Rzq9kXJhOlUtB5nqDKZ_6oIeG",
+        "desc": "indice."
+      },
+      "img4": {
+        "url": "https://drive.google.com/uc?export=view&id=1BpfRndzjF-IkwiyU8CCb-iBhSzJnFADe",
+        "desc": "Introduccion."
+      },
+      "img5": {
+        "url": "https://drive.google.com/uc?export=view&id=1tZzdsso32xD-KhfCnVWy2DwVXAdZlZua",
+        "desc": "Algunas paginas interiores."
+      }
+    }
+  },
+  {
+    "marca_temporal": "7/14/2022 1:39:47",
+    "id": "5",
+    "categoria": "Trabajo Fin de Grado",
+    "nombre_docente": "Eva Iszoro",
+    "nombre_estudiante": "Jesus Souto Hernandez",
+    "titulo": "Concrete Monsters",
+    "subtitulo": "Aplicacion del metodo de patronaje experimental Accidental Cutting.",
+    "descripcion": "Este trabajo surge de la experimentación dentro del marco de investigación textil volumétrica del método de patronaje experimental Accidental Cutting, mezclando formas abstractas con patrones base convencionales. A nivel personal nunca antes había realizado un patrón o cosido a máquina ya que no estoy estudiando diseño de moda sino diseño de producto. El mayor reto fue aprender a coser en poco tiempo y conocer los distintos tipos de costuras que existen, como preparar la máquina de coser para empezar a trabajar. Como conclusión de este trabajo-asignatura puedo decir que valoro mucho más el mundo de la moda y como son los detalles de una buena prenda.",
+    "palabras_clave": "Experimentacion, accidental cutting, patronaje experimental",
+    "linea_investigacion": "Diseño e innovación",
+    "especialidad": "Grafico",
+    "especialidad_completo": "Diseño gráfico",
+    "asignatura": "Diseño experimental. Creacion textil y patronaje",
+    "curso": "4º",
+    "imagenes": {
+      "img1": {
+        "url": "https://drive.google.com/uc?export=view&id=1pIf-N0Aa5K7bD5FRTPVBPCymN8pGfuyT",
+        "desc": "Prenda de patronaje experimental Accidental Cutting"
+      },
+      "img2": {
+        "url": "https://drive.google.com/uc?export=view&id=1THBsaxbIuRE4goeuYtCtnvvRn99ffZck",
+        "desc": "Prenda de patronaje experimental Accidental Cutting"
+      },
+      "img3": {
+        "url": "https://drive.google.com/uc?export=view&id=1jB-SZKcmK9gGaWVEVG8k1k4xHd42yy93",
+        "desc": "Prenda de patronaje experimental Accidental Cutting"
+      },
+      "img4": {
+        "url": "https://drive.google.com/uc?export=view&id=1dh8MaBjbXWAVvyU_KIwHlQn20Apxpo4l",
+        "desc": "Prenda de patronaje experimental Accidental Cutting"
+      },
+      "img5": {
+        "url": "https://drive.google.com/uc?export=view&id=1oWrmlHi5IfCHJIzxB6W-4rZMB1Q8jDfp",
+        "desc": "Prenda de patronaje experimental Accidental Cutting"
+      }
+    }
+  },
+  {
+    "marca_temporal": "9/9/2022 20:36:29",
+    "id": "6",
+    "categoria": "Trabajo Fin de Grado",
+    "nombre_docente": "Arantzazu Querol Aragon",
+    "nombre_estudiante": "Isabel Nevado Diaz",
+    "titulo": "Introduccion materiales",
+    "subtitulo": "De la observacion a la imaginacio",
+    "descripcion": "A partir de la observacion, representacion formal de y con diferentes materiales de dibujo en el aula. Posteriormente, version e ilustracion de estos como objetos inverosimiles e imaginados.",
+    "palabras_clave": "Introduccion tecnicas dibujo",
+    "linea_investigacion": "Diseño de experiencias",
+    "especialidad": "producto",
+    "especialidad_completo": "Diseño de producto",
+    "asignatura": "Tecnicas de expresion y comunicacion",
+    "curso": "2º",
+    "imagenes": {
+      "img1": {
+        "url": "https://drive.google.com/uc?export=view&id=1_2TAJnGMj0GSfe53orq3qprZNGrpfVl6",
+        "desc": "Objetos dibujo observacion"
+      },
+      "img2": {
+        "url": "https://drive.google.com/uc?export=view&id=19-S6R4e5OBuP5LE7za6l6sKJeoBc9v-9",
+        "desc": "Objetos dibujo variacion imaginada"
+      },
+      "img3": {
+        "url": "",
+        "desc": ""
+      },
+      "img4": {
+        "url": "",
+        "desc": ""
+      },
+      "img5": {
+        "url": "",
+        "desc": ""
+      }
+    }
+  },
+  {
+    "marca_temporal": "7/8/2022 3:11:13",
+    "id": "7",
+    "categoria": "Trabajo Fin de Grado",
+    "nombre_docente": "Gonzalo Cordero de Ciria",
+    "nombre_estudiante": " Alina Pedro Cobuscean",
+    "titulo": "Los descubrimientos de CHEOPS",
+    "subtitulo": "Infografía científica animada",
+    "descripcion": "Se planteo el reto de hacer un video animado, utilizando los recursos de motion graphics en 2D y 3D, que facilitase la comprension y divulgacion de un tema cientifico. Utilizamos After Effects y Cinema 4D para contar uno de los descubrimientos del satetite CHEOPS: WASP-103b es un exoplaneta que llamo la atencion de los cientificos por su curiosa forma de balon de rugby.",
+    "palabras_clave": "Entorno, experiencia, adaptacion", 
+    "linea_investigacion": "Diseño de experiencias",
+    "especialidad": "Grafico",
+    "especialidad_completo": "Diseño gráfico",
+    "asignatura": "Graficos en movimiento 2D y 3D",
+    "curso": "4º",
+    "imagenes": {
+      "img1": {
+        "url": "https://drive.google.com/uc?export=view&id=1fvOaHb0Wrywm6lIi6gBJnbb3OyWG5riE",
+        "desc": "Cientificos observando a WASP-103b"
+      },
+      "img2": {
+        "url": "https://drive.google.com/uc?export=view&id=1bmSYX-3LSLnLYcksPFz2ap45mLvs_wdd",
+        "desc": "Presentacion de WASP-103b"
+      },
+      "img3": {
+        "url": "https://drive.google.com/uc?export=view&id=1usXpnTqJexDaYpmRUCNyRbkQrFTbCOXx",
+        "desc": "Metodo de analisis de anomalias en la forma de los planetas"
+      },
+      "img4": {
+        "url": "",
+        "desc": ""
+      },
+      "img5": {
+        "url": "",
+        "desc": ""
+      }
+    }
+  },
+  {
+    "marca_temporal": "7/4/2022 9:51:03",
+    "id": "8",
+    "categoria": "Trabajo Fin de Grado",
+    "nombre_docente": "Brezo Alcoceba Lopez-Araquistain",
+    "nombre_estudiante": "Patricia Jimenez Ramos",
+    "titulo": "DOTS OBSESSION",
+    "subtitulo": "Bolso de arnes inspirado en Yayoi Kusama",
+    "descripcion": "Dots Obsession es un complemento de moda inspirado en la obra artistica de la japonesa Yayoi Kusama, conocida como \"\"La princesa de los lunares\"\". Su obra se centra sobre todo en la performance, la psicodelia y la repeticion de patrones, lunares.",
+    "palabras_clave": "Psicodelia, lunares, estructura en red",
+    "linea_investigacion": "Diseño e innovacion",
+    "especialidad": "Moda",
+    "especialidad_completo": "Diseño de moda",
+    "asignatura": "Diseño. Complementos de moda",
+    "curso": "3º",
+    "imagenes": {
+      "img1": {
+        "url": "https://drive.google.com/uc?export=view&id=1ks-ksSU6kZaajaye1B_mxWMLJsdspczH",
+        "desc": "Dots ajustado al cuerpo"
+      },
+      "img2": {
+        "url": "https://drive.google.com/uc?export=view&id=1lD2M1jbmFt9c1iiskCNY8ch8XCdbhXl8",
+        "desc": "Dots gravitando"
+      },
+      "img3": {
+        "url": "https://drive.google.com/uc?export=view&id=1ooksKJJjG_QR4b1Ne9-iPiHxEKOo2-gI",
+        "desc": "Dots en estado de reposo"
+      },
+      "img4": {
+        "url": "https://drive.google.com/uc?export=view&id=14Gyvz9fc-m7bValFQxYQEQB3th6EGfNm",
+        "desc": "Dots en movimiento"
+      },
+      "img5": {
+        "url": "",
+        "desc": ""
+      }
+    }
+  },
+  {
+    "marca_temporal": "2/9/2022 17:08:32",
+    "id": "9",
+    "categoria": "Trabajo Fin de Grado",
+    "nombre_docente": "Alejandro Montaner Dobon",
+    "nombre_estudiante": "Carolina Esteban alvarez",
+    "titulo": "Arquetipos",
+    "subtitulo": "Una historia heroin chic",
+    "descripcion": "En esta editorial creado una historia de desamor en la cual la protagonista afronta las diferentes fases de una ruptura amorosa. La escena la sitúa, en su propio hogar, sola sobrellevando cada una de estas fases. Estas son: negacion, ira, negociacion, depresion y por último aceptacion.",
+    "palabras_clave": "Amor, intimidad, desinhibicion",
+    "linea_investigacion": "Diseño de experiencias",
+    "especialidad": "Moda",
+    "especialidad_completo": "Diseño de moda",
+    "asignatura": "Imagen Moda",
+    "curso": "3º",
+    "imagenes": {
+      "img1": {
+        "url": "https://drive.google.com/uc?export=view&id=1fMi2SUEsYIb_qkTSPnkL8K3eJHokz_ip",
+        "desc": "Negacion"
+      },
+      "img2": {
+        "url": "https://drive.google.com/uc?export=view&id=1vtkSceJHIpje8dA4PiDoYPfZzBoLlFvu",
+        "desc": "Ira"
+      },
+      "img3": {
+        "url": "https://drive.google.com/uc?export=view&id=1-bPZfAVcodUpnLy88kNjYDo_Nqal5d8D",
+        "desc": "Negociacion"
+      },
+      "img4": {
+        "url": "https://drive.google.com/uc?export=view&id=1Gx_7yys3DKaiKPhGrPuIi-5t0h1RHw5O",
+        "desc": "Depresion"
+      },
+      "img5": {
+        "url": "https://drive.google.com/uc?export=view&id=1rIcdWG1tUpXpvoWMmSMFOfGZfec_C_lc",
+        "desc": "Aceptacion"
+      }
+    }
+  },
+  {
+    "marca_temporal": "2/7/2022 11:39:53",
+    "id": "10",
+    "categoria": "Trabajo Fin de Grado",
+    "nombre_docente": "Alejandro Montaner Dobon",
+    "nombre_estudiante": "Esther Cano Cancela",
+    "titulo": "QUEEN OF THE NEIGHBORHOOD",
+    "subtitulo": "Coleccion basada en el movimiento Riot Girl",
+    "descripcion": "Parto de un libro llamado la venganza de las punks, en el se tratan temas como el mundo laboral, el dinero, el exito, las relaciones... desde la perspectiva de las cantantes desde los años 70 pasando por el movimiento feminista de las riot girls hasta nuestros dias. La coleccion cuenta una historia que empieza donde todas acaban, la boda. Se desarrolla en un ambiente de violencia machista donde nuestra protagonista pasa por varias fases como el maltrato, la sexualizacion en su contra, la fealdad femenina, la gordo-fobia, la sororidad, la menstruacion, la aceptacion de esta  y todas esas cosas que me definen y con las que me siento apoyada, abrigada y escuchada cuando las escucho a ellas.",
+    "palabras_clave": "Punk, manifiesto",
+    "linea_investigacion": "Diseño para la innovacion social",
+    "especialidad": "Moda",
+    "especialidad_completo": "Diseño de moda",
+    "asignatura": "Diseño de moda. Analisis e ideacion",
+    "curso": "2º",
+    "imagenes": {
+      "img1": {
+        "url": "https://drive.google.com/uc?export=view&id=1xS47306Ho7qMM6sWn-5-852Pxsceg2L1",
+        "desc": "Vestido Not ur sexu4l cont3nt"
+      },
+      "img2": {
+        "url": "https://drive.google.com/uc?export=view&id=1goYPMC7VjzksJr3-h0XczJkYAciWAwe7",
+        "desc": "Vestido \"\"Girls 2 th3 front"
+      },
+      "img3": {
+        "url": "https://drive.google.com/uc?export=view&id=134eBXpAUuiVACiljj3cNtzKlAVPXOfaB",
+        "desc": "Composicion de los dos looks"
+      },
+      "img4": {
+        "url": "https://drive.google.com/uc?export=view&id=1y4ZOOZ-MoUCFWhMZ7r-U7zW_-ivLxUGO",
+        "desc": "Figurines de la coleccion completa"
+      },
+      "img5": {
+        "url": "https://drive.google.com/uc?export=view&id=1U7RMk8e7WoBCjxVPAbGbq8QPHFDE60HS",
+        "desc": ""
+      }
+    }
+  },
+  {
+    "marca_temporal": "9/29/2022 19:14:32",
+    "id": "11",
+    "categoria": "Trabajo Fin de Grado",
+    "nombre_docente": "Ivan Huelves Illas",
+    "nombre_estudiante": "Maria del Mar Guerra Acero",
+    "titulo": "Keepr Monstrs",
+    "subtitulo": "Guardaespaldas infantiles",
+    "descripcion": "Keepr monstrs consiste en un conjunto de 3 figuras decorativas infantiles. Estas, como su nombre indica, representan monstruos amigables que tienen por funcion aportar un ambiente de seguridad y bienestar a la estancia donde son colocados. Siguiendo el concepto introducido por Winnicott a mediados de los 50, el denominado objeto transicional, ayuda a los niños a gestionar los periodos de separacion de sus padres o de las personas que los cuidan. En este caso, keeper monsters se centraria en combatir los miedos que presentan los niños a la hora de dormir, ya que estos funcionan como un equipo de \"\"guardaespaldas \"\" que posibilitan la vigilancia de varios espacios relacionados con dicha inseguridad, como lo son las ventanas, armarios, puertas o debajo de la cama.",
+    "palabras_clave": "seguridad, infantil",
+    "linea_investigacion": "Diseño para la innovacion social",
+    "especialidad": "Producto",
+    "especialidad_completo": "Diseño de producto",
+    "asignatura": "Proyectos. Comunicacion y desarrollo",
+    "curso": "3º",
+    "imagenes": {
+      "img1": {
+        "url": "https://drive.google.com/uc?export=view&id=19xJ9tOxJ6ABoxJvUVy3K0JdM7JxlPZsC",
+        "desc": "Identidad producto"
+      },
+      "img2": {
+        "url": "https://drive.google.com/uc?export=view&id=14ZPe6VtcnngMOIxhQ_IlnttvSggLNiw2",
+        "desc": ""
+      },
+      "img3": {
+        "url": "https://drive.google.com/uc?export=view&id=1kE51YRjdPfzdyOJdYfD76jLXCR5CXAAu",
+        "desc": ""
+      },
+      "img4": {
+        "url": "",
+        "desc": ""
+      },
+      "img5": {
+        "url": "",
+        "desc": ""
+      }
+    }
+  },
+  {
+    "marca_temporal": "3/30/2022 21:21:00",
+    "id": "12",
+    "categoria": "Trabajo Fin de Master",
+    "nombre_docente": "Marta Pastor Estebanez",
+    "nombre_estudiante": "Ainoa Sanchez Ayuso",
+    "titulo": "La casa de una pared.",
+    "subtitulo": "Espacio recogido en un armario para dar cabida a lo importante.",
+    "descripcion": "Se plantea el diseño del interior de una vivienda modular en la isla de La Palma, tratando de ofrecer una solucion de rapida construccion para poder solventar la crisis de vivienda ocasionada por la actividad sismica el pasado mes de septiembre. Con esta propuesta, se pretende ofrecer una solucion innovadora que ofrezca un espacio diafano y permita a sus usuarios desarrollar distintas actividades, abandonando la idea de “un cuarto, un uso”.",
+    "palabras_clave": "Modular, armario, espacio diafano, volcan, La Palma",
+    "linea_investigacion": "Diseño para la innovacion social",
+    "especialidad": "Interiores",
+    "especialidad_completo": "Diseño de interiores",
+    "asignatura": "Proyectos en el espacio. Ideacion.",
+    "curso": "2º",
+    "imagenes": {
+      "img1": {
+        "url": "https://drive.google.com/uc?export=view&id=1VSLrKkRxn4eLkAceL1BQaBAOkWYTVVqe",
+        "desc": "Analisis incial, contextualizacion, usuarios, maqueta."
+      },
+      "img2": {
+        "url": "https://drive.google.com/uc?export=view&id=1TwA8XFNQ3l1QpSa-8LBSw8O1TrNEfIux",
+        "desc": "Primeras exploraciones, dibujos, espacio."
+      },
+      "img3": {
+        "url": "https://drive.google.com/uc?export=view&id=1lwLGStV8RICKGHQRIlfCdgeYcFxjXWUC",
+        "desc": "Representacion, planimetria, diagramas, 3D."
+      },
+      "img4": {
+        "url": "https://drive.google.com/uc?export=view&id=1R_yHxtTibm4MV7o8VCsMybihwWhDEAiY",
+        "desc": "Funcionamiento, espacio en perspectiva, tabique-armario."
+      },
+      "img5": {
+        "url": "https://drive.google.com/uc?export=view&id=1TwA8XFNQ3l1QpSa-8LBSw8O1TrNEfIux",
+        "desc": "Construccion, sistema de montaje, planos con materiales."
+      }
+    }
+  }
+]

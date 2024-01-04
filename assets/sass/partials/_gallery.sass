@@ -1,0 +1,26 @@
+.gallery_container
+    height: fit-content
+
+    .gallery_cards
+        width: 100%
+        display: grid
+        grid-template-columns: repeat(3, 1fr)
+        @media screen and (max-width: $lg)
+            grid-template-columns: repeat(2, 1fr)
+        @media screen and (max-width: $md)
+            grid-template-columns: repeat(1, 1fr)
+
+
+        .gallery_card
+
+
+
+    .gallery_footer
+        position: relative
+        padding: 1rem 2rem
+        background: $primary
+        display: flex
+        justify-content: end
+        box-shadow: 0 0 1rem 1rem $primary
+        z-index: 1
+        .button_primary

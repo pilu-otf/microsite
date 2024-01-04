@@ -1,11 +1,68 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="es">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>Microsite</title>   
+    <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Rounded:opsz,wght,FILL,GRAD@24,400,0,0" />
+    <link rel="stylesheet" href="assets/css/style.css">
 </head>
 <body>
-    <p>hola</p>
+    <div class="app h_block">
+
+        <div class="loading_screen ">
+            <div class="loading_text">
+                <p class="banner_display">Cargando ...<br>POSTER #0002</p>
+            </div>
+        </div>
+
+        <!-- HEADER -->
+        <header class="header">
+            <div class="header_logo">
+                <img src="./assets/images/LogoESDblack.svg" alt="logo">
+            </div>
+
+            <div class="header_left">
+                <button id="header_download_button" class="button_secondary">
+                    <h4>Descargar</h4>
+                </button>
+                <h2 class="header_title">Poster#</h2>
+            </div>
+        </header>
+
+
+        <!-- MAIN -->
+        <main class="main">
+            <div class="banner">
+                <div class="banner_text">
+                    <p class="banner_display">Descubre <br>POSTER #0002</p>
+                </div>
+
+                <a href="#gallery_container" class="banner_icon">
+                    <span class="banner_text">
+                        <img src="./assets/icons/down.svg" alt="scroll down">
+                    </span>
+                </a>
+            </div>
+
+            <!-- gallery -->
+            <div id="gallery_container" class="gallery_container">
+
+                <ul class="gallery_cards">
+                    <!-- bucle -->
+                </ul>
+
+                <div class="gallery_footer">
+                    <button class="button_secondary"><h4>Ver todos</h4></button>
+                </div>
+            </div>
+        </main>
+
+        <!-- FOOTER -->
+        <footer class="footer"></footer>
+    </div>
+
+    <script type="module" src="/app/main.js"></script>
 </body>
 </html>

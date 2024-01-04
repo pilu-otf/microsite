@@ -1,0 +1,30 @@
+// header
+.header
+    position: fixed
+    min-width: 100%
+    padding: 1rem 3rem 
+    box-sizing: border-box
+    @include flex_center
+    z-index: 10
+    transition: all .5s ease-in-out
+
+    @media screen and (max-width: $sm)
+        padding: 1rem 1.5rem
+
+    .header_logo
+        width: 32px
+        height: 32px
+        @include img_contain
+
+    .header_left
+        @include flex_center
+        gap: 1rem
+        .button_primary
+        .header_title
+
+
+.header_black
+    background-color: $black
+    color: $white
+    transition: all .3s ease-in-out
+

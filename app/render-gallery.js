@@ -11,7 +11,7 @@ export const printCards = () => {
             `${card.descripcion.slice(0, 200)}...` : card.descripcion;
 
         html += `
-        <div class="card" id="card_${card.id}">
+        <div class="card" id="card_${card.id}" data-id="${card.id}">
             <div class="card">
                 <div class="card_picture">
                     <img src="${card.imagenes.img1.url}" alt="${card.imagenes.img1.desc}">
@@ -42,9 +42,9 @@ export const printCards = () => {
     // detail layout
     data.forEach((card) => {
         const cardContainer = document.getElementById(`card_${card.id}`);
-        // console.log(cardContainer);s
+        // console.log(cardContainer);
         cardContainer.addEventListener('click', (ev) => {
-            loadDetailView(cardContainer, card);
+            loadDetailView(card);
             window.scrollTo({top: 0});
         });
     });
